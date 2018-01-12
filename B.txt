@@ -1,1 +1,3 @@
 This is B text file
+
+This is modified now
